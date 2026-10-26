@@ -9,7 +9,7 @@
 | Customer and User Eloquent models | Complete | app/Models/Customer.php and User.php |
 | Controllers retrieve through models | Complete | orderBy('id')->get() in both account controllers |
 | Blade displays database records consistently with TFA5 | Complete | Five records on each page; real screenshots; existing design and filters retained |
-| GitHub raw source plus export or migrations/seeder | Prepared for publication and remote verification | README, source, migrations and seeder; SQLite file is ignored |
+| GitHub raw source plus export or migrations/seeder | Complete and verified on GitHub | Remote main commit matched local source; README, migrations, seeder and report uploaded; SQLite file is ignored |
 | Hosted working application link | Excluded by student's GitHub-only instruction | No public application deployed; handout still explicitly requests this link |
 | AI conversation or integration | Not required by handout | No conversation fabricated; existing illustrative AI image disclosed |
 | DOCX and screenshot evidence requested by student | Complete after visual QA | Six-page report, eight real screenshots, screenshot checklist |
